@@ -327,7 +327,7 @@ securityConfig:
 # How long to wait for opensearch to stop gracefully
 terminationGracePeriod: 120
 
-sysctlVmMaxMapCount: 262144
+sysctlVmMaxMapCount: 462144
 
 startupProbe:
   tcpSocket:
